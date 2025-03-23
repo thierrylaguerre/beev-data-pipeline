@@ -1,1 +1,6 @@
-
+pandas
+matplotlib
+sqlalchemy
+psycopg2
+logging
+os
